@@ -9,17 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Contact
-
-- **Email**: `xuerong553@gmail.com`
-- **GitHub**: `https://github.com/Sherry805139`
-- **Hugging Face**: `https://huggingface.co/SherryDragon`
-- **Phone**: (+86) 182-2916-5559
-
 ## Education
 
 - **Zhejiang University (ZJU)** — B.Eng. Candidate in Computer Science and Technology (Sep 2023 – Present), Hangzhou, China  
-  - GPA: 4.7/5.0 (Top 10%)
+  - GPA: 92/100 (Top 5%)
   - CET-6: 657
 
 ## Honors & Awards
@@ -49,9 +42,9 @@ redirect_from:
 ## Skills
 
 - **Programming**: Python, C++, SQL
-- **ML / Frameworks**: PyTorch, FedMABench, Verl (RLHF), LoRA/PEFT, LangChain
+- **ML / Frameworks**: PyTorch, FedMABench, Verl (RLHF), LoRA/PEFT
 - **Research Interests**: Large Language Models (LLMs), Privacy-Preserving Machine Learning, Autonomous Agents
 
 
 
-_Last updated: Dec 23, 2025_
+_Last updated: Jan 28, 2026_
