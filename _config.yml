@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Liu Xuerong"
+title                    : "Liu Xuerong 刘雪融"
 title_separator          : "-"
-name                     : &name "Liu Xuerong"
+# name                     : &name "Liu Xuerong"
 description              : &description "B.Eng. candidate @ Zhejiang University. Interests: LLMs, privacy-preserving ML, autonomous agents."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Sherry805139.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   name             : "Liu Xuerong"
   # pronouns         : "she/her"  
   bio              : "B.Eng. candidate in Computer Science @ Zhejiang University."
-  location         : "Zhejiang, China"
+  # location         : "Zhejiang, China"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "xuerong553@gmail.com" 

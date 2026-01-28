@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Liu Xuerong"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I’m **Liu Xuerong** , a **B.Eng. candidate in Computer Science** at **Zhejiang University**.
 
 I am interested in **Multimodal Large Language Models**, particularly in **Parameter-Efficient Fine-Tuning (PEFT)** and developing algorithms for **retrieving and composing expert modules** (e.g., LoRAs) across diverse modalities.
 
