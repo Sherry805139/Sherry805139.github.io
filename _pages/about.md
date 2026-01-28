@@ -9,7 +9,7 @@ redirect_from:
 
 I’m **Liu Xuerong** , a **B.Eng. candidate in Computer Science** at **Zhejiang University**.
 
-My interests focus on **LLM agents**, **multimodal systems**, and **privacy-preserving machine learning**.
+I am interested in **Multimodal Large Language Models**, particularly in **Parameter-Efficient Fine-Tuning (PEFT)** and developing algorithms for **retrieving and composing expert modules** (e.g., LoRAs) across diverse modalities.
 
 
 - **National Scholarship** (2024, 2025)
