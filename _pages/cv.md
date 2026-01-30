@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 - **Zhejiang University (ZJU)** — B.Eng. Candidate in Computer Science and Technology (Sep 2023 – Present), Hangzhou, China  
-  - GPA: 92/100 (Top 5%)
+  - GPA: 92/100 (Rank 1/281)
   - CET-6: 657
 
 ## Honors & Awards
@@ -47,4 +47,4 @@ redirect_from:
 
 
 
-_Last updated: Jan 28, 2026_
+_Last updated: Jan 30, 2026_
