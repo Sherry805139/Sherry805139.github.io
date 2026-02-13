@@ -11,9 +11,8 @@ redirect_from:
 
 ## Education
 
-- **Zhejiang University (ZJU)** — B.Eng. Candidate in Computer Science and Technology (Sep 2023 – Present), Hangzhou, China  
+- **Zhejiang University (ZJU)** — B.Eng. Candidate in Computer Science and Technology (Sep 2023 – Present)
   - GPA: 92/100 (Rank 1/281)
-  - CET-6: 657
 
 ## Honors & Awards
 
@@ -24,10 +23,12 @@ redirect_from:
 ## Research Experience
 
 - **Evolving Personalized GUI Agent with Privacy-preserving GUI Hub** — Research Intern (Advisor: Prof. Ying Wei), Aug 2025 – Present  
-  - Lead development of a privacy-preserving LoRA hub framework to reconcile personalization with data privacy in GUI agents (targeting a top-tier conference submission).
-  - Designed and implemented a multimodal weighting algorithm to compute similarity between user queries and LoRA training datasets’ embeddings (addressing limitations of text-only retrieval).
-  - Built the experimental pipeline using FedMABench; trained category-level and app-level LoRAs to validate retrieval logic.
-  - Engineering a Differential Privacy (DP) mechanism to inject noise during weight fusion to reduce leakage of user-specific data.
+  - Overview: Spearheaded the development of a **Spectral-Aware Privacy-Preserving LoRA Hub** as the **lead author**. Proposed a novel "Profile-then-Route" framework to resolve the conflict between personalization and data privacy in GUI agents. Target submission to COLM 2026.
+  - Entropy-Regularized Routing: Engineered a **Capacity-Aware Routing Algorithm** that decouples user data from model selection. Constructed a Global Support Set to profile LoRA capabilities across 16 semantic clusters; implemented a custom **entropy-regularized optimization objective** to compute routing weights, significantly outperforming traditional cosine-similarity retrieval.
+  - Spectral Consolidation: Pioneered the application of **Iso-CTS** to GUI Agents. Try to consolidate redundant LoRAs by flattening singular value spectra, enabling the Hub to evolve continuously without "feature collapse" or storage explosion.
+  - Privacy \ System: Built the full evaluation pipeline on FedMABench. Designed a local-execution architecture where users only upload capacity embeddings—mathematically guaranteeing zero leakage of raw GUI traces or screenshots—while achieving superior generalization on unseen apps compared to baselines like LoRAHub and LEGO.
+![alt text](766a3d3cc7b126c9981ebc202248f252.png)
+
 
 - **AI for Story Generation** — Undergraduate Researcher (with Ph.D. candidates), Aug 2025  
   - Conducted literature review on story generation benchmarks for a Human-AI Interaction project targeting CHI.
