@@ -11,7 +11,7 @@ I am interested in **Multimodal Large Language Models**, with a primary focus on
 
 I am interested in **Multimodal Large Language Models**, with a primary focus on **Parameter-Efficient Fine-Tuning (PEFT)**. My current research centers on developing scalable algorithms for the **retrieval and composition of modular expert modules** (e.g., LoRAs), aiming to enable efficient knowledge integration and adaptation across diverse modalities. 
 
-In practice, I have been conducting research on **privacy-preserving GUI Agents** under the supervision of [<u>Prof. Wei Ying</u>](https://wei-ying.net/). Building on this modular and privacy-conscious foundation, I am also exploring the potential for **Self-evolving Agents** that can autonomously refine their capabilities through continuous interaction and feedback.
+In practice, I have been conducting research on **privacy-preserving GUI Agents** under the supervision of [Ying Wei](https://wei-ying.net/). Building on this modular and privacy-conscious foundation, I am also exploring the potential for **Self-evolving Agents** that can autonomously refine their capabilities through continuous interaction and feedback.
 
 
 - **National Scholarship** (2024, 2025)
