@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="margin-bottom: 30px;">
+  <a href="{{ site.baseurl }}/assets/CV_XuerongLIU.pdf" download class="btn btn--primary" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Download CV (PDF)
+  </a>
+</div>
+
 ## Education
 
 - **Zhejiang University (ZJU)** — B.Eng. Candidate in Computer Science and Technology (Sep 2023 – Present)
